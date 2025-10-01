@@ -7,7 +7,9 @@ const darkGray = "#343A40";
 
 export default {
   primary: railwayBlue,
+  primaryLight: "#E3F2FD",
   success: ecoGreen,
+  successLight: "#E8F5E8",
   accent: warmOrange,
   background: "#FFFFFF",
   surface: lightGray,
